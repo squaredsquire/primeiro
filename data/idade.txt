@@ -1,0 +1,4 @@
+nome idade
+gui 27
+joao 80
+kar 30
